@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: firstspringboot-proj
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: home2
+Implementation-Vendor-Id: com.singht.springboot
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
